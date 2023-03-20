@@ -1,4 +1,4 @@
-package com.darkdemon
+package com.superlegends
 
 import com.lagradost.cloudstream3.plugins.CloudstreamPlugin
 import com.lagradost.cloudstream3.plugins.Plugin
